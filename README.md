@@ -1,4 +1,5 @@
 Bartosz Książkiewicz 
+
 Email: baksiazkiewicz@gmail.com
 
 Zadanie 1 – Losowe przestawienie liter w pliku tekstowym
